@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- * main - prints from 0 to 9
- *
- * @i: array
- *
- * Return: i
- */
+*print_numbers - print 0123456789
+*
+*Return: void
+*/
+
 void print_numbers(void)
 {
 	char c;
